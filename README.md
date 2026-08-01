@@ -84,7 +84,7 @@ Car-Price-Prediction/
 
 ## GitHub Repository
 
-https://github.com/YOUR_USERNAME/Car-Price-Prediction
+[https://github.com/YOUR_USERNAME/Car-Price-Prediction](https://github.com/Athulyakrishna-k1312/Car-Price-Prediction/tree/main)
 
 ---
 
